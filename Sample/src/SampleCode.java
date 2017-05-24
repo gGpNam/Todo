@@ -6,4 +6,8 @@ public class SampleCode {
 		System.out.println(System.getProperty("os.name"));
 	} 
 
+	
+	private void getName() {
+	    
+	}
 }
