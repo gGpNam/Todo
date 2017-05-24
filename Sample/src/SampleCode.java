@@ -9,5 +9,4 @@ public class SampleCode {
 	private void getName() {
 	    // test
 	}
-	
 }
