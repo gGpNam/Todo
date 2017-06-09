@@ -7,6 +7,6 @@ public class SampleCode {
 	} 
 	
 	private void getName() {
-	    // test
+	    System.out.println("master");
     }
 }
