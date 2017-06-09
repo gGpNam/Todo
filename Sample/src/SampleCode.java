@@ -8,5 +8,6 @@ public class SampleCode {
 	
 	private void getName() {
 	    System.out.println("master");
+	    System.out.println("branch out");
     }
 }
