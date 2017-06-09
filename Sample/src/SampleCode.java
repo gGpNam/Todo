@@ -5,10 +5,8 @@ public class SampleCode {
 		// TODO Auto-generated method stub
 		System.out.println(System.getProperty("os.name"));
 	} 
-
+	
 	private void getName() {
 	    // test
-	}
-	
-	
+    }
 }
