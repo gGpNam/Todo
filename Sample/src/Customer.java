@@ -16,4 +16,9 @@ public class Customer {
         return this.id + this.name;
     }
     
+    public String TestMethod1() {
+        return "";
+    }
+    
+    
 }
