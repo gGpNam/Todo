@@ -21,5 +21,8 @@ public class Customer {
         return "";
     }
     
+    public String TestMethod2() {
+        return "";
+    }
     
 }
