@@ -11,6 +11,4 @@ public class Customer {
     public String test() {
         return this.id + this.name;
     }
-    
-    
 }
