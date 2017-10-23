@@ -11,4 +11,14 @@ public class Customer {
     public String test() {
         return this.id + this.name;
     }
+    
+    public String TestMethod() {
+        return this.id + this.name;
+    }
+    
+    public String TestMethod1() {
+        return "";
+    }
+    
+    
 }
