@@ -25,4 +25,8 @@ public class Customer {
         return "";
     }
     
+    public String TestMethod4() {
+        return "";
+    }
+    
 }
